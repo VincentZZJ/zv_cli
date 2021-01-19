@@ -1,0 +1,18 @@
+{
+  "name": "zv_cli",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "zv-cli": "index.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^6.2.1"
+  }
+}
